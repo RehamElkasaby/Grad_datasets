@@ -1,101 +1,101 @@
 employee_id,Fname,Lname,category,tags,street,city,governorate,country,address,rating
-1,Muhammad,Salim,e-commerce management,['marketing'],El Galaa Street,Talkha,Dakahlia,Egypt,"16 El Galaa Street, Talkha, Dakahlia, Egypt",10
-2,Bassam,Al-Rashid,translation,"['interpretation', 'documents', 'documents']",Al Ahram Street,Sers El-Lyan,Monufia,Egypt,"17 Al Ahram Street, Sers El-Lyan, Monufia, Egypt",7
-3,Tariq,Bakir,tax preparation,"['compliance', 'returns', 'filing']",October Street,Bani Mazar,Minya,Egypt,"52 October Street, Bani Mazar, Minya, Egypt",1
-4,Nadeem,Suliman,tutoring,"['homework help', 'lessons', 'subjects']",Ahmed Orabi Street,Suez,Suez,Egypt,"97 Ahmed Orabi Street, Suez, Suez, Egypt",5
-5,Farah,Casim,plumbing,"['maintenance', 'maintenance', 'pipes']",El Nozha Street,Nasser,Beni Suef,Egypt,"71 El Nozha Street, Nasser, Beni Suef, Egypt",10
-6,Yoonus,Hakim,data analysis,"['reports', 'business intelligence', 'insights']", El Obour Street,Nuweiba,South Sinai,Egypt,"56  El Obour Street, Nuweiba, South Sinai, Egypt",1
-7,Sarah,Habib,car washing,['auto detailing'],October Street,Shubra El-Kheima,Cairo,Egypt,"67 October Street, Shubra El-Kheima, Cairo, Egypt",7
-8,Omnia,Kareem,barbering,"['grooming', 'cuts', 'shaving']", El Obour Street,Desouk,Kafr El Sheikh,Egypt,"70  El Obour Street, Desouk, Kafr El Sheikh, Egypt",3
-9,Sara,Masri,car washing,"['auto detailing', 'maintenance', 'maintenance', 'maintenance', 'waxing']",El Kornish Street,Qalyub,Qalyubia,Egypt,"47 El Kornish Street, Qalyub, Qalyubia, Egypt",6
-10,Elham,Raiyan,food styling,"['props', 'photography', 'presentation', 'photography']",El Thawra Street,Bir al-Abed,North Sinai,Egypt,"83 El Thawra Street, Bir al-Abed, North Sinai, Egypt",8
-11,Mazen,Ziyad,marketing,"['strategy', 'SEO', 'campaigns', 'campaigns', 'SEO']",El Thawra Street,Bir al-Abed,North Sinai,Egypt,"50 El Thawra Street, Bir al-Abed, North Sinai, Egypt",9
-12,Casim,Aziz,speech writing,"['events', 'presentations', 'public speaking', 'scripts']",Abu Bakr El Seddik Street,Sohag,Sohag,Egypt,"41 Abu Bakr El Seddik Street, Sohag, Sohag, Egypt",9
-13,Amal,Ahmed,career coaching,"['development', 'networking', 'resume', 'interviews']",Al Horreya Street,Minya,Minya,Egypt,"62 Al Horreya Street, Minya, Minya, Egypt",5
-14,Basma,Zaidan,web design,"['front-end', 'responsive', 'SEO', 'front-end', 'UI/UX']",July 26th Street,Minya,Minya,Egypt,"97 July 26th Street, Minya, Minya, Egypt",7
-15,Karim,Ehab,massage therapy,"['pain relief', 'wellness', 'relaxation', 'wellness', 'techniques']",Gezira Street,Alexandria,Alexandria,Egypt,"21 Gezira Street, Alexandria, Alexandria, Egypt",3
-16,Tasneem,Ebrahim,home-made cooking,"['personal chef', 'catering', 'personal chef']",October Street,Bani Mazar,Minya,Egypt,"86 October Street, Bani Mazar, Minya, Egypt",10
-17,Nour,Fahad,accounting,"['management', 'audit', 'consulting', 'taxes']",Salah Salem Street,Al-Zohra,Port Said,Egypt,"91 Salah Salem Street, Al-Zohra, Port Said, Egypt",6
-18,Galal,Omran,data analysis,"['insights', 'reports', 'business intelligence']",Al Nile Street,Kafr Abdou,Alexandria,Egypt,"78 Al Nile Street, Kafr Abdou, Alexandria, Egypt",7
-19,Yasmin,Kamil,event planning,"['venues', 'coordination', 'coordination', 'logistics', 'logistics']",El Nasr Street,Fayed,Ismailia,Egypt,"10 El Nasr Street, Fayed, Ismailia, Egypt",6
-20,Yahia,Ayad,speech writing,['presentations'],El Gaish Street,Suez,Suez,Egypt,"64 El Gaish Street, Suez, Suez, Egypt",2
-21,Ali,Ibrahim,dietitian services,"['diet', 'health', 'nutrition', 'diet', 'meal plans']",El Kornish Street,Tal El Kabir,Ismailia,Egypt,"78 El Kornish Street, Tal El Kabir, Ismailia, Egypt",6
-22,Houda,Fahad,animation,"['motion graphics', 'storyboarding', 'visual effects']",October Street,Qena,Qena,Egypt,"21 October Street, Qena, Qena, Egypt",6
-23,Jawad,Halabi,art lessons,"['painting', 'creativity', 'drawing']",Gezira Street,Maghagha,Minya,Egypt,"25 Gezira Street, Maghagha, Minya, Egypt",3
-24,Qaseem,El-Amin,hairstyling,"['cuts', 'cuts', 'cuts', 'treatments']",El Galaa Street,Qalyub,Qalyubia,Egypt,"60 El Galaa Street, Qalyub, Qalyubia, Egypt",8
-25,Zaid,Hamza,shipping,"['transportation', 'freight']",El Nasr Street,Luxor,Luxor,Egypt,"24 El Nasr Street, Luxor, Luxor, Egypt",4
-26,Ahmed,Zaki,photography,['events'],El Nasr Street,Beni Suef,Beni Suef,Egypt,"74 El Nasr Street, Beni Suef, Beni Suef, Egypt",3
-27,Maha,Faisal,painting,"['exterior', 'residential', 'interior', 'artistic']",El Kornish Street,Desouk,Kafr El Sheikh,Egypt,"11 El Kornish Street, Desouk, Kafr El Sheikh, Egypt",9
-28,Hind,Khatib,electrical help,"['wiring', 'maintenance', 'maintenance', 'maintenance', 'installation']",October Street,Zagazig,Sharqia,Egypt,"39 October Street, Zagazig, Sharqia, Egypt",7
-29,Osama,Matar,food styling,"['presentation', 'plating', 'design', 'props']",October Street,6th of October City,Giza,Egypt,"22 October Street, 6th of October City, Giza, Egypt",10
-30,Dawood,Diya,wedding planning,['catering'],El Haram Street,Kafr El-Battikh,Damietta,Egypt,"29 El Haram Street, Kafr El-Battikh, Damietta, Egypt",7
-31,Nabil,Hassan,bookkeeping,"['expenses', 'finance', 'records']",Gezira Street,Farafra,New Valley,Egypt,"69 Gezira Street, Farafra, New Valley, Egypt",1
-32,Nour,Barakat,health coaching,"['wellness', 'wellness', 'motivation']",Al Ahram Street,Ibsheway,Faiyum,Egypt,"80 Al Ahram Street, Ibsheway, Faiyum, Egypt",10
-33,Emad,Barakat,car washing,"['cleaning', 'cleaning', 'maintenance']",Gamal Abdel Nasser Street,Abu Kebir,Sharqia,Egypt,"60 Gamal Abdel Nasser Street, Abu Kebir, Sharqia, Egypt",10
-34,Jawad,Issam,resume writing,['career'],Salah Salem Street,Kharga,New Valley,Egypt,"00 Salah Salem Street, Kharga, New Valley, Egypt",9
-35,Ahmed,Khaled,event planning,"['management', 'management', 'venues']",Gezira Street,Al-Wasta,Beni Suef,Egypt,"96 Gezira Street, Al-Wasta, Beni Suef, Egypt",7
-36,Hala,Laith,video editing,['cutting'],El Kornish Street,Rafah,North Sinai,Egypt,"14 El Kornish Street, Rafah, North Sinai, Egypt",2
-37,Basma,Samir,wedding planning,"['ceremony', 'catering', 'catering', 'catering']",El Thawra Street,Giza,Cairo,Egypt,"80 El Thawra Street, Giza, Cairo, Egypt",4
-38,Inas,Ghanim,carpentry,['repair'],Gamal Abdel Nasser Street,Bani Mazar,Minya,Egypt,"50 Gamal Abdel Nasser Street, Bani Mazar, Minya, Egypt",7
-39,Hadi,Suleiman,catering,"['menus', 'cuisine', 'cuisine', 'menus', 'food']",El Haram Street,Dar El Salam,Sohag,Egypt,"61 El Haram Street, Dar El Salam, Sohag, Egypt",1
-40,Majid,Eyad,catering,"['food', 'food', 'food', 'cuisine', 'menus']",Gamal Abdel Nasser Street,Luxor,Luxor,Egypt,"09 Gamal Abdel Nasser Street, Luxor, Luxor, Egypt",10
-41,Omema,Saleh,sales,"['B2B', 'B2C']",July 26th Street,Tamiya,Faiyum,Egypt,"17 July 26th Street, Tamiya, Faiyum, Egypt",6
-42,Yasir,Hazem,animation,"['3D', '2D', '3D', 'storyboarding', 'motion graphics']",El Haram Street,Kafr El Sheikh,Kafr El Sheikh,Egypt,"82 El Haram Street, Kafr El Sheikh, Kafr El Sheikh, Egypt",8
-43,Yasmine,RaheemSaad,interior design,"['decorating', 'space planning', 'color schemes']",Gezira Street,Al-Hawamidiyya,Giza,Egypt,"91 Gezira Street, Al-Hawamidiyya, Giza, Egypt",1
-44,Hanan,Saeed,sales,"['retail', 'B2B', 'B2B', 'B2C', 'B2C']",Al-Azhar Street,Luxor,Luxor,Egypt,"19 Al-Azhar Street, Luxor, Luxor, Egypt",3
-45,Hadi,Nasr,tax preparation,"['deductions', 'filing', 'compliance']",Abu Bakr El Seddik Street,Sohag,Asyut,Egypt,"32 Abu Bakr El Seddik Street, Sohag, Asyut, Egypt",2
-46,Hager,Yusef,social media management,"['posts', 'engagement']",Lebanon Street,Giza,Cairo,Egypt,"42 Lebanon Street, Giza, Cairo, Egypt",1
-47,Nadine,Malik,transcription,"['typing', 'audio to text']",Ahmed Orabi Street,Minya,Minya,Egypt,"99 Ahmed Orabi Street, Minya, Minya, Egypt",10
-48,Ayah,Taher,market research,"['reports', 'data collection', 'analysis', 'surveys', 'data collection']",El Haram Street,Edfu,Aswan,Egypt,"83 El Haram Street, Edfu, Aswan, Egypt",9
-49,Farid,Saad,SEO services,"['keywords', 'search engine optimization']",Al Nahda Street,Zefta,Gharbia,Egypt,"51 Al Nahda Street, Zefta, Gharbia, Egypt",6
-50,Ibrahim,Wahab,career coaching,"['job search', 'interviews', 'interviews', 'job search']",Lebanon Street,Farafra,New Valley,Egypt,"39 Lebanon Street, Farafra, New Valley, Egypt",1
-51,Qasim,Issam,tutoring,"['lessons', 'support']",El Nasr Street,Bir al-Abed,North Sinai,Egypt,"75 El Nasr Street, Bir al-Abed, North Sinai, Egypt",3
-52,Muhammad,Riad,photography,"['events', 'landscapes']",El Thawra Street,Dahab,South Sinai,Egypt,"42 El Thawra Street, Dahab, South Sinai, Egypt",10
-53,Aya,Waleed,translation,['transcription'],Al Nile Street,Asyut,Asyut,Egypt,"83 Al Nile Street, Asyut, Asyut, Egypt",4
-54,Safa,Jawad,translation,['localization'],El Galaa Street,Alexandria,Alexandria,Egypt,"37 El Galaa Street, Alexandria, Alexandria, Egypt",4
-55,Farah,Suliman,personal training,"['motivation', 'fitness', 'motivation', 'fitness', 'coaching']",El Nozha Street,Dahab,South Sinai,Egypt,"72 El Nozha Street, Dahab, South Sinai, Egypt",1
-56,Haya,Farid,shipping,"['logistics', 'domestic', 'international']",Al Horreya Street,Hurghada,Red Sea,Egypt,"41 Al Horreya Street, Hurghada, Red Sea, Egypt",2
-57,Zahra,Hassan,market research,"['data collection', 'analysis', 'surveys']",Al Ahram Street,Al-Zohra,Port Said,Egypt,"45 Al Ahram Street, Al-Zohra, Port Said, Egypt",4
-58,Kareem,Hasan,furniture assembly,"['installation', 'custom builds', 'flat pack', 'installation']",Ahmed Orabi Street,Kafr El-Zayat,Gharbia,Egypt,"44 Ahmed Orabi Street, Kafr El-Zayat, Gharbia, Egypt",4
-59,Yahia,Jihad,gardening services,['maintenance'],Gezira Street,Ras El Bar,Kafr El Sheikh,Egypt,"18 Gezira Street, Ras El Bar, Kafr El Sheikh, Egypt",5
-60,Careem,Samar,development,"['mobile', 'applications', 'applications', 'web', 'web']",Al Ahram Street,Borg El Arab,Alexandria,Egypt,"53 Al Ahram Street, Borg El Arab, Alexandria, Egypt",10
-61,Rashid,Quraishi,personal training,['motivation'],El Nasr Street,Esna,Luxor,Egypt,"55 El Nasr Street, Esna, Luxor, Egypt",2
-62,Youssef,Taher,health coaching,['fitness'],October Street,Ibsheway,Faiyum,Egypt,"45 October Street, Ibsheway, Faiyum, Egypt",6
-63,Yusef,Basha,proofreading,"['spelling', 'editing', 'editing']",Abu Bakr El Seddik Street,Shubra El-Kheima,Cairo,Egypt,"37 Abu Bakr El Seddik Street, Shubra El-Kheima, Cairo, Egypt",8
-64,Usman,Bakir,legal writing services,"['agreements', 'terms', 'agreements', 'agreements']",Lebanon Street,Marsa Alam,Red Sea,Egypt,"10 Lebanon Street, Marsa Alam, Red Sea, Egypt",9
-65,Wafa,El-Amin,marketing,['SEO'],October Street,Shubra El-Kheima,Cairo,Egypt,"90 October Street, Shubra El-Kheima, Cairo, Egypt",6
-66,Rania,Zein,data entry,"['clerical', 'clerical', 'database', 'spreadsheets']",El Gaish Street,Mitt Ghamr,Dakahlia,Egypt,"79 El Gaish Street, Mitt Ghamr, Dakahlia, Egypt",7
-67,Gamal,Farid,speech writing,"['presentations', 'politics']",Ahmed Orabi Street,Banha,Qalyubia,Egypt,"53 Ahmed Orabi Street, Banha, Qalyubia, Egypt",9
-68,Mona,Tayeb,language teaching,"['bilingual', 'tutoring', 'lessons', 'bilingual', 'conversation']",Abu Bakr El Seddik Street,Banha,Qalyubia,Egypt,"65 Abu Bakr El Seddik Street, Banha, Qalyubia, Egypt",6
-69,Asma,Hussein,technical writing,['instructions'],Gezira Street,El-Qoseir,Red Sea,Egypt,"40 Gezira Street, El-Qoseir, Red Sea, Egypt",5
-70,Bushra,Samir,tutoring,"['support', 'education']",Al Ahram Street,Port Said,Port Said,Egypt,"81 Al Ahram Street, Port Said, Port Said, Egypt",5
-71,Rami,Majid,health coaching,['wellness'],El Galaa Street,Luxor,Luxor,Egypt,"15 El Galaa Street, Luxor, Luxor, Egypt",4
-72,Najwa,Umar,financial planning,"['investments', 'investments', 'savings', 'savings', 'savings']",Gezira Street,6th of October City,Giza,Egypt,"83 Gezira Street, 6th of October City, Giza, Egypt",3
-73,Hasan,Ahmad,pet sitting,['walking'],El Gaish Street,Armant,Luxor,Egypt,"42 El Gaish Street, Armant, Luxor, Egypt",4
-74,Nader,Hussain,cleaning,"['residential', 'maintenance', 'sanitization']",El Nozha Street,El Hamam,Matrouh,Egypt,"26 El Nozha Street, El Hamam, Matrouh, Egypt",10
-75,Rami,Maleek,shipping,"['international', 'freight', 'freight']",El Gaish Street,Aswan,Aswan,Egypt,"31 El Gaish Street, Aswan, Aswan, Egypt",8
-76,Ahmed,Bilal,car washing,['cleaning'],July 26th Street,Esna,Luxor,Egypt,"71 July 26th Street, Esna, Luxor, Egypt",2
-77,Muhammad,Nasr,customer support,"['technical support', 'technical support', 'queries', 'service', 'helpdesk']",October Street,Shubra El-Kheima,Qalyubia,Egypt,"30 October Street, Shubra El-Kheima, Qalyubia, Egypt",5
-78,Duaa,Mohamed,public relations,"['branding', 'communications', 'strategy', 'media']",Gezira Street,Luxor,Luxor,Egypt,"08 Gezira Street, Luxor, Luxor, Egypt",9
-79,Daaim,Issa,furniture assembly,['flat pack'],El Nasr Street,Desouk,Kafr El Sheikh,Egypt,"87 El Nasr Street, Desouk, Kafr El Sheikh, Egypt",8
-80,Esra,Matar,data entry,"['input', 'typing', 'typing', 'clerical']",Lebanon Street,Akhmim,Sohag,Egypt,"03 Lebanon Street, Akhmim, Sohag, Egypt",2
-81,Bayan,Jihad,pet sitting,"['overnight stays', 'walking']",Salah Salem Street,Ashmoun,Monufia,Egypt,"22 Salah Salem Street, Ashmoun, Monufia, Egypt",9
-82,Imad,Nader,styling,"['wardrobe', 'wardrobe', 'personal shopping', 'fashion']",Al Nahda Street,Dakhla,New Valley,Egypt,"21 Al Nahda Street, Dakhla, New Valley, Egypt",2
-83,Yasmine,Jamal,SEO services,['rankings'],Gamal Abdel Nasser Street,Shubra El-Kheima,Qalyubia,Egypt,"37 Gamal Abdel Nasser Street, Shubra El-Kheima, Qalyubia, Egypt",9
-84,Youmna,Bakir,photography,"['equipment', 'portraits', 'editing', 'editing', 'portraits']",Gezira Street,Nuweiba,South Sinai,Egypt,"46 Gezira Street, Nuweiba, South Sinai, Egypt",5
-85,Tawfiq,Abdul,install air conditioner,"['installation', 'installation', 'installation', 'HVAC', 'HVAC']",Al Ahram Street,Armant,Luxor,Egypt,"63 Al Ahram Street, Armant, Luxor, Egypt",8
-86,Dalia,Othman,babysitting,"['childcare', 'childcare', 'childcare', 'activities']",Al Nile Street,Zagazig,Sharqia,Egypt,"65 Al Nile Street, Zagazig, Sharqia, Egypt",3
-87,Hussain,Ehab,marketing,"['campaigns', 'advertising', 'SEO']",Lebanon Street,Giza,Cairo,Egypt,"22 Lebanon Street, Giza, Cairo, Egypt",2
-88,Zain,Mazen,makeup artistry,"['cosmetics', 'weddings', 'cosmetics']",Ahmed Orabi Street,Luxor,Qena,Egypt,"21 Ahmed Orabi Street, Luxor, Qena, Egypt",7
-89,Yoonus,Essam,copy editing,"['proofreading', 'grammar', 'style']",El Thawra Street,Bani Mazar,Minya,Egypt,"11 El Thawra Street, Bani Mazar, Minya, Egypt",7
-90,Youmna,Abbas,styling,"['wardrobe', 'consulting', 'makeovers']",Talaat Harb Street,Beni Suef,Beni Suef,Egypt,"47 Talaat Harb Street, Beni Suef, Beni Suef, Egypt",7
-91,Casim,Jamal,test prep,"['GRE', 'ACT', 'GRE', 'SAT', 'study guides']",Al Nahda Street,Al-Hawamidiyya,Giza,Egypt,"56 Al Nahda Street, Al-Hawamidiyya, Giza, Egypt",7
-92,Ebrahim,Lutfi,shipping,"['transportation', 'transportation']", El Obour Street,Bani Mazar,Minya,Egypt,"41  El Obour Street, Bani Mazar, Minya, Egypt",4
-93,Mona,Ameer,wedding planning,"['decorations', 'venues']",Salah Salem Street,Ibsheway,Faiyum,Egypt,"77 Salah Salem Street, Ibsheway, Faiyum, Egypt",3
-94,Sara,Eyad,data entry,"['typing', 'input', 'typing']",July 26th Street,Nasser,Beni Suef,Egypt,"39 July 26th Street, Nasser, Beni Suef, Egypt",9
-95,Tariq,Ibrahim,data analysis,"['reports', 'business intelligence', 'trends', 'business intelligence', 'statistics']",El Nasr Street,Sohag,Asyut,Egypt,"56 El Nasr Street, Sohag, Asyut, Egypt",8
-96,Maha,Hakim,speech writing,['presentations'],Al Ahram Street,Kharga,New Valley,Egypt,"76 Al Ahram Street, Kharga, New Valley, Egypt",6
-97,Ahlam,Faisal,SEO services,"['content', 'content', 'search engine optimization']",Abu Bakr El Seddik Street,Farafra,New Valley,Egypt,"05 Abu Bakr El Seddik Street, Farafra, New Valley, Egypt",1
-98,Reda,Rayan,virtual assistant,['remote support'],Abu Bakr El Seddik Street,Beni Suef,Beni Suef,Egypt,"11 Abu Bakr El Seddik Street, Beni Suef, Beni Suef, Egypt",8
-99,Ismail,Hatem,legal writing services,"['agreements', 'terms', 'contracts']",El Thawra Street,Asyut,Asyut,Egypt,"68 El Thawra Street, Asyut, Asyut, Egypt",8
-100,Fouad,Habeeb,web design,"['front-end', 'SEO', 'responsive']",El Galaa Street,Al-Hawamidiyya,Giza,Egypt,"18 El Galaa Street, Al-Hawamidiyya, Giza, Egypt",7
+1,Zumurrud,Junaid,content creation,"['blogging', 'writing', 'writing', 'writing', 'videos']",El Nasr Street,Port Fuad,Port Said,Egypt,"13 El Nasr Street, Port Fuad, Port Said, Egypt",10
+2,Obaidiyah,Riyad,animation,"['storyboarding', '2D', '3D', '2D']", El Obour Street,Rafah,North Sinai,Egypt,"13  El Obour Street, Rafah, North Sinai, Egypt",8
+3,Omar,Omran,elder care,"['assistance', 'support', 'assistance', 'support', 'support']",Talaat Harb Street,Ataqah,Suez,Egypt,"82 Talaat Harb Street, Ataqah, Suez, Egypt",9
+4,Yasmin,Rashid,art lessons,"['crafts', 'drawing', 'creativity', 'creativity', 'technique']",El Galaa Street,Beni Suef,Beni Suef,Egypt,"85 El Galaa Street, Beni Suef, Beni Suef, Egypt",8
+5,Chakir,Samir,furniture assembly,"['flat pack', 'flat pack', 'flat pack', 'repair']",Talaat Harb Street,Cairo,Cairo,Egypt,"70 Talaat Harb Street, Cairo, Cairo, Egypt",3
+6,Idris,Assad,graphic designer,"['branding', 'branding']",El Nozha Street,Borg El Arab,Alexandria,Egypt,"24 El Nozha Street, Borg El Arab, Alexandria, Egypt",4
+7,Kholoud,Hassan,pet sitting,"['walking', 'playing', 'feeding', 'walking', 'playing']",Al-Azhar Street,Kom Ombo,Aswan,Egypt,"70 Al-Azhar Street, Kom Ombo, Aswan, Egypt",3
+8,Omar,Zayed,bookkeeping,"['expenses', 'accounts', 'expenses']",El Galaa Street,Zefta,Gharbia,Egypt,"80 El Galaa Street, Zefta, Gharbia, Egypt",6
+9,Samira,Jibril,legal writing services,['contracts'],July 26th Street,Marsa Matruh,Matrouh,Egypt,"36 July 26th Street, Marsa Matruh, Matrouh, Egypt",4
+10,Ali,Zakariya,makeup artistry,"['cosmetics', 'weddings']",El Nozha Street,Qena,Qena,Egypt,"97 El Nozha Street, Qena, Qena, Egypt",6
+11,Qaseem,Mohamed,plumbing,"['installation', 'installation']",July 26th Street,Zefta,Gharbia,Egypt,"55 July 26th Street, Zefta, Gharbia, Egypt",10
+12,Omar,Tayeb,videography,"['equipment', 'filming']",Al Nahda Street,Al-Wasta,Beni Suef,Egypt,"08 Al Nahda Street, Al-Wasta, Beni Suef, Egypt",7
+13,Zain,Bashar,SEO services,"['rankings', 'rankings', 'content', 'search engine optimization', 'keywords']",Al Nile Street,Arish,North Sinai,Egypt,"95 Al Nile Street, Arish, North Sinai, Egypt",6
+14,Imad,Zakariya,home maintenance,"['repairs', 'inspection', 'inspection', 'upkeep']",El Galaa Street,Zagazig,Sharqia,Egypt,"95 El Galaa Street, Zagazig, Sharqia, Egypt",9
+15,Sara,Galal,ghostwriting,"['content', 'articles', 'confidential']",July 26th Street,Ain Shams,Sharqia,Egypt,"32 July 26th Street, Ain Shams, Sharqia, Egypt",1
+16,Ebrahim,Abdul,graphic designer,"['illustrations', 'illustrations']",El Nozha Street,Bir al-Abed,North Sinai,Egypt,"67 El Nozha Street, Bir al-Abed, North Sinai, Egypt",1
+17,Reem,Suliman,virtual assistant,"['management', 'remote support', 'tasks', 'scheduling']",October Street,Maghagha,Minya,Egypt,"72 October Street, Maghagha, Minya, Egypt",5
+18,Essam,Rayan,carpentry,"['furniture', 'furniture', 'woodwork']",Salah Salem Street,Armant,Luxor,Egypt,"15 Salah Salem Street, Armant, Luxor, Egypt",1
+19,Ayah,Eid,ghostwriting,"['confidential', 'content', 'content', 'confidential', 'content']",July 26th Street,Sers El-Lyan,Monufia,Egypt,"24 July 26th Street, Sers El-Lyan, Monufia, Egypt",7
+20,Aya,Ghanem,brand strategy,"['identity', 'branding', 'marketing', 'identity', 'positioning']",Talaat Harb Street,Armant,Luxor,Egypt,"99 Talaat Harb Street, Armant, Luxor, Egypt",10
+21,Rami,Haddad,development,"['software', 'programming', 'software', 'web', 'software']",El Gaish Street,Desouk,Kafr El Sheikh,Egypt,"80 El Gaish Street, Desouk, Kafr El Sheikh, Egypt",10
+22,Shorouq,Ossama,accounting,"['financial statements', 'consulting', 'taxes']",Talaat Harb Street,Ataqah,Suez,Egypt,"01 Talaat Harb Street, Ataqah, Suez, Egypt",7
+23,Ayman,Saad,graphic designer,"['digital', 'print', 'digital', 'illustrations']",Gezira Street,Borg El Arab,Alexandria,Egypt,"12 Gezira Street, Borg El Arab, Alexandria, Egypt",1
+24,Hassan,Bashar,SEO services,"['traffic', 'rankings', 'content', 'traffic']",El Haram Street,Nuweiba,South Sinai,Egypt,"01 El Haram Street, Nuweiba, South Sinai, Egypt",9
+25,Ehab,Ibrahim,video editing,"['enhancement', 'splicing', 'effects']",October Street,Sharm El Sheikh,South Sinai,Egypt,"86 October Street, Sharm El Sheikh, South Sinai, Egypt",9
+26,Hala,Habeeb,car washing,['auto detailing'], El Obour Street,El Hamam,Matrouh,Egypt,"18  El Obour Street, El Hamam, Matrouh, Egypt",5
+27,Dana,Samir,resume writing,['cover letter'],Al Nile Street,Nag Hammadi,Qena,Egypt,"19 Al Nile Street, Nag Hammadi, Qena, Egypt",5
+28,Thuraya,Ghanim,delivery,"['courier', 'packages']",Lebanon Street,Qena,Qena,Egypt,"58 Lebanon Street, Qena, Qena, Egypt",4
+29,Thuraya,Ossama,speech writing,"['scripts', 'politics', 'events']",Al-Azhar Street,Dahab,South Sinai,Egypt,"20 Al-Azhar Street, Dahab, South Sinai, Egypt",8
+30,Sami,Hamza,pet sitting,"['playing', 'feeding']",Gezira Street,Arish,North Sinai,Egypt,"15 Gezira Street, Arish, North Sinai, Egypt",1
+31,Ghadeer,Farid,voice acting,"['characters', 'commercials', 'commercials']", El Obour Street,Ras El Bar,Kafr El Sheikh,Egypt,"33  El Obour Street, Ras El Bar, Kafr El Sheikh, Egypt",2
+32,Zain,Gamal,yoga instruction,"['flexibility', 'classes']",October Street,Shubra El-Kheima,Qalyubia,Egypt,"89 October Street, Shubra El-Kheima, Qalyubia, Egypt",3
+33,Yoonus,Quraishi,social media management,"['engagement', 'analytics', 'posts']",Talaat Harb Street,Nasser,Beni Suef,Egypt,"19 Talaat Harb Street, Nasser, Beni Suef, Egypt",5
+34,Waleed,Latif,health coaching,"['wellness', 'fitness', 'fitness']",El Nozha Street,Sharm El Sheikh,South Sinai,Egypt,"66 El Nozha Street, Sharm El Sheikh, South Sinai, Egypt",10
+35,Nadia,Khoury,virtual assistant,['management'],Gezira Street,Borg El Arab,Alexandria,Egypt,"02 Gezira Street, Borg El Arab, Alexandria, Egypt",5
+36,Gamila,Khoury,carpentry,"['furniture', 'furniture']",Ahmed Orabi Street,Beni Suef,Beni Suef,Egypt,"23 Ahmed Orabi Street, Beni Suef, Beni Suef, Egypt",8
+37,Jasmine,Yassin,home-made cooking,"['catering', 'meals', 'meals', 'catering', 'catering']",El Thawra Street,Port Fuad,Port Said,Egypt,"00 El Thawra Street, Port Fuad, Port Said, Egypt",10
+38,Farha,Mohammad,customer support,['service'],El Thawra Street,Ismailia,Ismailia,Egypt,"78 El Thawra Street, Ismailia, Ismailia, Egypt",4
+39,Ibtisam,Mansour,ghostwriting,['content'], El Obour Street,Alexandria,Alexandria,Egypt,"40  El Obour Street, Alexandria, Alexandria, Egypt",2
+40,Gamal,Yazan,business consulting,['operations'],Abu Bakr El Seddik Street,Minya,Minya,Egypt,"55 Abu Bakr El Seddik Street, Minya, Minya, Egypt",5
+41,Mays,Zaid,content creation,"['writing', 'blogging']",El Galaa Street,Tanta,Gharbia,Egypt,"79 El Galaa Street, Tanta, Gharbia, Egypt",6
+42,Mazen,Farouk,data entry,"['spreadsheets', 'spreadsheets']",Al-Azhar Street,Dar El Salam,Sohag,Egypt,"75 Al-Azhar Street, Dar El Salam, Sohag, Egypt",9
+43,Yasmin,Tawfiq,transcription,"['audio to text', 'video to text']",El Thawra Street,Sers El-Lyan,Monufia,Egypt,"83 El Thawra Street, Sers El-Lyan, Monufia, Egypt",1
+44,Imad,Karim,generative AI,['machine learning'],Talaat Harb Street,Ataqah,Suez,Egypt,"27 Talaat Harb Street, Ataqah, Suez, Egypt",1
+45,Saad,Fadi,pet sitting,"['walking', 'care', 'playing']",July 26th Street,Shubra El-Kheima,Cairo,Egypt,"37 July 26th Street, Shubra El-Kheima, Cairo, Egypt",10
+46,Nadeem,Naadim,financial planning,"['budgeting', 'advice', 'budgeting', 'investments']",El Galaa Street,Minya,Minya,Egypt,"96 El Galaa Street, Minya, Minya, Egypt",8
+47,Jad,Majid,blog writing,"['topics', 'content']",Abu Bakr El Seddik Street,Zagazig,Sharqia,Egypt,"94 Abu Bakr El Seddik Street, Zagazig, Sharqia, Egypt",3
+48,Yahia,Osman,career coaching,"['networking', 'networking', 'development', 'development']",Al-Azhar Street,Ismailia,Ismailia,Egypt,"00 Al-Azhar Street, Ismailia, Ismailia, Egypt",7
+49,Khaled,Idris,voice acting,"['dubbing', 'dubbing', 'commercials']", El Obour Street,Maghagha,Minya,Egypt,"12  El Obour Street, Maghagha, Minya, Egypt",6
+50,Khadija,Saleh,plumbing,"['maintenance', 'installation', 'maintenance', 'repairs']",Al Ahram Street,Luxor,Luxor,Egypt,"20 Al Ahram Street, Luxor, Luxor, Egypt",1
+51,Walaa,Muhammad,barbering,"['cuts', 'shaving', 'salon', 'salon']",Lebanon Street,6th of October City,Giza,Egypt,"48 Lebanon Street, 6th of October City, Giza, Egypt",9
+52,Lina,Wakil,graphic designer,['print'],El Haram Street,Mitt Ghamr,Dakahlia,Egypt,"64 El Haram Street, Mitt Ghamr, Dakahlia, Egypt",9
+53,Jibril,Ameer,speech writing,"['scripts', 'public speaking', 'scripts', 'scripts']",Al Ahram Street,Borg El Arab,Alexandria,Egypt,"82 Al Ahram Street, Borg El Arab, Alexandria, Egypt",4
+54,Kholoud,Dawood,fashion design,"['clothing', 'accessories', 'sewing', 'runway']",El Gaish Street,Luxor,Luxor,Egypt,"82 El Gaish Street, Luxor, Luxor, Egypt",5
+55,Ruba,Jalal,tax preparation,"['compliance', 'deductions', 'returns']",Al-Azhar Street,Nasser,Beni Suef,Egypt,"10 Al-Azhar Street, Nasser, Beni Suef, Egypt",8
+56,Jawad,Ebrahim,market research,"['strategy', 'data collection']",El Thawra Street,Suez,Suez,Egypt,"20 El Thawra Street, Suez, Suez, Egypt",8
+57,Taha,Sami,fashion design,"['accessories', 'runway', 'sketching']",Al-Azhar Street,Cairo,Cairo,Egypt,"20 Al-Azhar Street, Cairo, Cairo, Egypt",2
+58,Jibril,Usman,home-made cooking,"['catering', 'personal chef']",El Haram Street,Bani Mazar,Minya,Egypt,"71 El Haram Street, Bani Mazar, Minya, Egypt",2
+59,Yazan,Nader,bookkeeping,['expenses'],Al Horreya Street,Beni Suef,Beni Suef,Egypt,"83 Al Horreya Street, Beni Suef, Beni Suef, Egypt",7
+60,Zain,Suleiman,tax preparation,"['advice', 'advice', 'compliance']",Gezira Street,Marsa Alam,Red Sea,Egypt,"65 Gezira Street, Marsa Alam, Red Sea, Egypt",7
+61,Layla,Fouad,grant writing,"['funding', 'funding', 'proposals']", El Obour Street,Al-Wasta,Beni Suef,Egypt,"99  El Obour Street, Al-Wasta, Beni Suef, Egypt",1
+62,Zain,Ayad,blockchain,"['blockchain', 'Ethereum', 'decentralized', 'blockchain']",Talaat Harb Street,Marsa Matruh,Matrouh,Egypt,"47 Talaat Harb Street, Marsa Matruh, Matrouh, Egypt",8
+63,Walid,Touma,chat support,"['customer service', 'text support']",Al Horreya Street,Desouk,Kafr El Sheikh,Egypt,"36 Al Horreya Street, Desouk, Kafr El Sheikh, Egypt",10
+64,Rahma,Yasir,development,"['applications', 'applications']",El Galaa Street,Ain Shams,Sharqia,Egypt,"34 El Galaa Street, Ain Shams, Sharqia, Egypt",2
+65,Mariam,Hafez,barbering,"['shaving', 'grooming', 'shaving', 'grooming', 'trimming']",Salah Salem Street,Akhmim,Sohag,Egypt,"21 Salah Salem Street, Akhmim, Sohag, Egypt",9
+66,Ahmed,Nabil,speech writing,"['events', 'public speaking', 'presentations', 'events', 'public speaking']",Ahmed Orabi Street,Kafr El Sheikh,Kafr El Sheikh,Egypt,"21 Ahmed Orabi Street, Kafr El Sheikh, Kafr El Sheikh, Egypt",9
+67,Othman,Amin,grant writing,"['research', 'non-profits', 'non-profits']",Al Nahda Street,Cairo,Cairo,Egypt,"81 Al Nahda Street, Cairo, Cairo, Egypt",9
+68,Ahmed,Zayed,shipping,"['logistics', 'freight']",Salah Salem Street,Ras El Bar,Kafr El Sheikh,Egypt,"96 Salah Salem Street, Ras El Bar, Kafr El Sheikh, Egypt",10
+69,Karim,RaheemSaad,elder care,['healthcare'],Lebanon Street,Dakhla,New Valley,Egypt,"87 Lebanon Street, Dakhla, New Valley, Egypt",5
+70,Daaim,mohamed,yoga instruction,"['mindfulness', 'flexibility', 'flexibility', 'mindfulness', 'relaxation']",Ahmed Orabi Street,Abnub,Asyut,Egypt,"96 Ahmed Orabi Street, Abnub, Asyut, Egypt",1
+71,Rahma,Rayan,makeup artistry,"['events', 'events', 'cosmetics', 'application']",El Nozha Street,Maghagha,Minya,Egypt,"81 El Nozha Street, Maghagha, Minya, Egypt",4
+72,Ghada,Mustafa,electrical help,"['maintenance', 'repairs', 'wiring', 'installation', 'installation']",Gamal Abdel Nasser Street,Ismailia,Ismailia,Egypt,"95 Gamal Abdel Nasser Street, Ismailia, Ismailia, Egypt",10
+73,Nour,Jarrah,painting,"['residential', 'residential', 'interior', 'commercial', 'exterior']",Abu Bakr El Seddik Street,Sers El-Lyan,Monufia,Egypt,"56 Abu Bakr El Seddik Street, Sers El-Lyan, Monufia, Egypt",8
+74,Marwan,Najjar,electrical help,"['troubleshooting', 'maintenance', 'wiring']",Talaat Harb Street,Al-Zohra,Port Said,Egypt,"63 Talaat Harb Street, Al-Zohra, Port Said, Egypt",8
+75,Walaa,Ahsan,transcription,"['accuracy', 'typing', 'audio to text']",Al Nahda Street,Kom Ombo,Aswan,Egypt,"81 Al Nahda Street, Kom Ombo, Aswan, Egypt",5
+76,Esra,Kadeer,shipping,['freight'],October Street,Talkha,Dakahlia,Egypt,"06 October Street, Talkha, Dakahlia, Egypt",1
+77,Qasim,Ammar,furniture assembly,"['custom builds', 'custom builds', 'flat pack']",Al Nile Street,Sharm El Sheikh,South Sinai,Egypt,"48 Al Nile Street, Sharm El Sheikh, South Sinai, Egypt",8
+78,Eyad,Hakim,bookkeeping,"['accounts', 'accounts']",Talaat Harb Street,Farafra,New Valley,Egypt,"92 Talaat Harb Street, Farafra, New Valley, Egypt",10
+79,Khaled,Selim,home-made cooking,"['meals', 'personal chef']",El Thawra Street,Dakhla,New Valley,Egypt,"37 El Thawra Street, Dakhla, New Valley, Egypt",1
+80,Saeed,Barakat,install air conditioner,"['maintenance', 'cooling', 'installation']",El Kornish Street,El-Qoseir,Red Sea,Egypt,"66 El Kornish Street, El-Qoseir, Red Sea, Egypt",3
+81,Riham,Amin,pet sitting,['overnight stays'],Talaat Harb Street,Beni Suef,Beni Suef,Egypt,"27 Talaat Harb Street, Beni Suef, Beni Suef, Egypt",3
+82,Jamal,Karim,ghostwriting,"['collaboration', 'confidential', 'content', 'collaboration']",El Haram Street,Marsa Matruh,Matrouh,Egypt,"70 El Haram Street, Marsa Matruh, Matrouh, Egypt",10
+83,Raheem,Taher,interior design,['renovation'],Ahmed Orabi Street,Ibsheway,Faiyum,Egypt,"23 Ahmed Orabi Street, Ibsheway, Faiyum, Egypt",7
+84,Galal,Wahab,career coaching,"['resume', 'interviews', 'job search', 'networking', 'development']",El Thawra Street,Esna,Luxor,Egypt,"78 El Thawra Street, Esna, Luxor, Egypt",2
+85,	LamyaLaila,Hatem,animation,"['visual effects', '3D', '2D', 'storyboarding']",El Haram Street,Mitt Ghamr,Dakahlia,Egypt,"32 El Haram Street, Mitt Ghamr, Dakahlia, Egypt",6
+86,Riham,Yazid,painting,"['interior', 'commercial', 'artistic', 'residential', 'residential']",Lebanon Street,Tamiya,Faiyum,Egypt,"36 Lebanon Street, Tamiya, Faiyum, Egypt",9
+87,Jad,Dawood,resume writing,"['CV', 'cover letter']",Gezira Street,El-Qoseir,Red Sea,Egypt,"46 Gezira Street, El-Qoseir, Red Sea, Egypt",6
+88,Rula,Daaim,ghostwriting,"['content', 'books', 'collaboration', 'articles', 'collaboration']",Al Ahram Street,Abu Kebir,Sharqia,Egypt,"34 Al Ahram Street, Abu Kebir, Sharqia, Egypt",6
+89,Dalia,Jihad,shipping,"['domestic', 'transportation', 'domestic']", El Obour Street,El-Qoseir,Red Sea,Egypt,"45  El Obour Street, El-Qoseir, Red Sea, Egypt",10
+90,Thuraya,Issa,makeup artistry,"['weddings', 'events']",Al-Azhar Street,Shubra El-Kheima,Cairo,Egypt,"31 Al-Azhar Street, Shubra El-Kheima, Cairo, Egypt",2
+91,Riyad,Rahman,wedding planning,"['ceremony', 'catering', 'venues', 'catering', 'venues']",Abu Bakr El Seddik Street,El-Qoseir,Red Sea,Egypt,"60 Abu Bakr El Seddik Street, El-Qoseir, Red Sea, Egypt",3
+92,Reham,Latif,voice acting,"['audiobooks', 'dubbing']",El Galaa Street,Sers El-Lyan,Monufia,Egypt,"64 El Galaa Street, Sers El-Lyan, Monufia, Egypt",6
+93,Hager,Essam,generative AI,"['automation', 'scripting', 'machine learning', 'AI models', 'neural networks']", El Obour Street,Dar El Salam,Sohag,Egypt,"43  El Obour Street, Dar El Salam, Sohag, Egypt",6
+94,Sara,Doud,gardening services,"['landscaping', 'design', 'lawn care', 'landscaping', 'maintenance']",Abu Bakr El Seddik Street,Dahab,South Sinai,Egypt,"37 Abu Bakr El Seddik Street, Dahab, South Sinai, Egypt",8
+95,Samir,Masri,bookkeeping,"['expenses', 'records', 'expenses', 'expenses']",Al Nahda Street,Abnub,Asyut,Egypt,"66 Al Nahda Street, Abnub, Asyut, Egypt",8
+96,Khadija,Careem,life coaching,"['wellness', 'advice']",Talaat Harb Street,Mitt Ghamr,Dakahlia,Egypt,"38 Talaat Harb Street, Mitt Ghamr, Dakahlia, Egypt",1
+97,Zahra,Masri,car washing,"['interior cleaning', 'cleaning']",Ahmed Orabi Street,Luxor,Qena,Egypt,"74 Ahmed Orabi Street, Luxor, Qena, Egypt",10
+98,Eyad,Riyad,personal training,"['exercise', 'coaching']",El Kornish Street,Port Said,Port Said,Egypt,"53 El Kornish Street, Port Said, Port Said, Egypt",7
+99,Riyad,Hisham,shipping,['freight'],Gezira Street,Farafra,New Valley,Egypt,"69 Gezira Street, Farafra, New Valley, Egypt",7
+100,Haya,Taher,technical writing,"['instructions', 'instructions', 'manuals', 'instructions']",El Galaa Street,Alexandria,Alexandria,Egypt,"19 El Galaa Street, Alexandria, Alexandria, Egypt",3
