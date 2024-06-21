@@ -1,0 +1,83 @@
+id,name,parent
+1,carpentry,worker
+2,plumbing,worker
+3,painting,worker
+4,cleaning,worker
+5,moving,worker
+6,delivery,worker
+7,shipping,worker
+8,car washing,worker
+9,home-made cooking,worker
+10,home maintenance,worker
+11,install air conditioner,worker
+12,electrical help,worker
+13,furniture assembly,worker
+14,gardening services,worker
+15,data entry,developer
+16,virtual assistant,developer
+17,sales,developer
+18,content creation,developer
+19,marketing,developer
+20,blockchain,developer
+21,data analysis,developer
+22,video editing,developer
+23,graphic designer,developer
+24,call center,developer
+25,chat support,developer
+26,customer support,developer
+27,resume writing,developer
+28,development,developer
+29,legal writing services,developer
+30,generative AI,developer
+31,web design,developer
+32,SEO services,developer
+33,social media management,developer
+34,translation,developer
+35,transcription,developer
+36,bookkeeping,worker
+37,accounting,developer
+38,financial planning,developer
+39,tax preparation,developer
+40,business consulting,developer
+41,life coaching,worker
+42,career coaching,worker
+43,health coaching,worker
+44,nutrition consulting,worker
+45,dietitian services,worker
+46,personal training,worker
+47,yoga instruction,worker
+48,massage therapy,worker
+49,pet sitting,worker
+50,babysitting,worker
+51,elder care,worker
+52,tutoring,worker
+53,test prep,worker
+54,language teaching,worker
+55,art lessons,worker
+56,photography,worker
+57,videography,worker
+58,animation,developer
+59,voice acting,developer
+60,event planning,worker
+61,wedding planning,worker
+62,interior design,worker
+63,fashion design,worker
+64,styling,worker
+65,makeup artistry,worker
+66,hairstyling,worker
+67,barbering,worker
+68,catering,worker
+69,food styling,worker
+70,bartending,worker
+71,technical writing,worker
+72,grant writing,worker
+73,speech writing,worker
+74,blog writing,worker
+75,ghostwriting,worker
+76,copy editing,worker
+77,proofreading,worker
+78,public relations,worker
+79,brand strategy,developer
+80,market research,developer
+81,e-commerce management,developer
+82,online course creation,developer

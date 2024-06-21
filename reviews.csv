@@ -1,0 +1,501 @@
+id,text,rating
+1,disappointing experience! The service was dreadful.,5
+2,It was a poor service. Truly a unsatisfactory time.,2
+3,An excellent service with excellent results.,8
+4,An pleasant service with amazing results.,7
+5,fantastic experience! The service was excellent.,7
+6,wonderful experience! The service was fantastic.,6
+7,A bad service with horrible results.,3
+8,The service was superb and I had a amazing experience.,7
+9,It was an amazing service. Truly a outstanding time.,7
+10,The service was terrible and I had a bad experience.,3
+11,An fantastic service with wonderful results.,7
+12,It was an outstanding service. Truly a superb time.,7
+13,wonderful experience! The service was amazing.,7
+14,wonderful experience! The service was fantastic.,6
+15,It was a subpar service. Truly a bad time.,5
+16,A subpar service with subpar results.,2
+17,disappointing experience! The service was terrible.,1
+18,It was a awful service. Truly a poor time.,2
+19,The service was satisfactory and I had a amazing experience.,9
+20,An outstanding service with pleasant results.,6
+21,excellent experience! The service was superb.,6
+22,I found the service to be awful and the overall experience was subpar.,3
+23,excellent experience! The service was wonderful.,9
+24,The service was pleasant and I had a wonderful experience.,6
+25,excellent experience! The service was fantastic.,9
+26,The service was horrible and I had a awful experience.,3
+27,It was a terrible service. Truly a bad time.,5
+28,satisfactory experience! The service was fantastic.,9
+29,A disappointing service with disappointing results.,5
+30,I found the service to be poor and the overall experience was subpar.,2
+31,poor experience! The service was unsatisfactory.,5
+32,A unsatisfactory service with disappointing results.,1
+33,It was an outstanding service. Truly a wonderful time.,9
+34,I found the service to be terrible and the overall experience was awful.,5
+35,I found the service to be horrible and the overall experience was dreadful.,1
+36,The service was superb and I had a amazing experience.,6
+37,It was an superb service. Truly a great time.,9
+38,An great service with superb results.,10
+39,I found the service to be outstanding and the overall experience was amazing.,7
+40,I found the service to be terrible and the overall experience was horrible.,3
+41,wonderful experience! The service was amazing.,8
+42,I found the service to be unsatisfactory and the overall experience was poor.,3
+43,The service was unsatisfactory and I had a dreadful experience.,3
+44,A unsatisfactory service with awful results.,4
+45,dreadful experience! The service was subpar.,1
+46,An amazing service with outstanding results.,9
+47,A poor service with dreadful results.,4
+48,It was an great service. Truly a superb time.,9
+49,It was a unsatisfactory service. Truly a dreadful time.,4
+50,I found the service to be excellent and the overall experience was amazing.,10
+51,The service was unsatisfactory and I had a unsatisfactory experience.,4
+52,It was an great service. Truly a excellent time.,7
+53,It was a horrible service. Truly a dreadful time.,2
+54,The service was terrible and I had a poor experience.,4
+55,excellent experience! The service was outstanding.,6
+56,The service was outstanding and I had a outstanding experience.,8
+57,A horrible service with unsatisfactory results.,4
+58,pleasant experience! The service was great.,8
+59,awful experience! The service was awful.,5
+60,An satisfactory service with wonderful results.,10
+61,A subpar service with horrible results.,1
+62,It was a subpar service. Truly a bad time.,2
+63,wonderful experience! The service was satisfactory.,10
+64,A awful service with unsatisfactory results.,2
+65,It was a poor service. Truly a bad time.,2
+66,I found the service to be terrible and the overall experience was bad.,1
+67,dreadful experience! The service was unsatisfactory.,2
+68,wonderful experience! The service was wonderful.,6
+69,horrible experience! The service was subpar.,2
+70,A unsatisfactory service with unsatisfactory results.,2
+71,An fantastic service with excellent results.,9
+72,The service was dreadful and I had a subpar experience.,3
+73,The service was unsatisfactory and I had a awful experience.,5
+74,disappointing experience! The service was poor.,4
+75,The service was subpar and I had a awful experience.,4
+76,pleasant experience! The service was fantastic.,6
+77,unsatisfactory experience! The service was terrible.,5
+78,It was an outstanding service. Truly a excellent time.,7
+79,I found the service to be terrible and the overall experience was dreadful.,4
+80,I found the service to be pleasant and the overall experience was superb.,10
+81,I found the service to be wonderful and the overall experience was pleasant.,8
+82,It was a bad service. Truly a awful time.,4
+83,terrible experience! The service was poor.,2
+84,I found the service to be awful and the overall experience was unsatisfactory.,3
+85,The service was unsatisfactory and I had a disappointing experience.,1
+86,The service was horrible and I had a bad experience.,4
+87,The service was terrible and I had a dreadful experience.,4
+88,I found the service to be great and the overall experience was amazing.,6
+89,It was an fantastic service. Truly a great time.,8
+90,The service was wonderful and I had a superb experience.,6
+91,The service was terrible and I had a bad experience.,2
+92,The service was excellent and I had a outstanding experience.,6
+93,It was a disappointing service. Truly a unsatisfactory time.,3
+94,An great service with amazing results.,8
+95,The service was awful and I had a unsatisfactory experience.,1
+96,I found the service to be disappointing and the overall experience was poor.,2
+97,A horrible service with bad results.,4
+98,I found the service to be disappointing and the overall experience was awful.,5
+99,It was a horrible service. Truly a bad time.,1
+100,A horrible service with poor results.,2
+101,satisfactory experience! The service was great.,8
+102,I found the service to be bad and the overall experience was dreadful.,5
+103,I found the service to be amazing and the overall experience was superb.,9
+104,It was an great service. Truly a wonderful time.,8
+105,The service was unsatisfactory and I had a terrible experience.,5
+106,It was a dreadful service. Truly a subpar time.,1
+107,The service was unsatisfactory and I had a unsatisfactory experience.,5
+108,The service was excellent and I had a satisfactory experience.,9
+109,A disappointing service with terrible results.,1
+110,The service was excellent and I had a wonderful experience.,6
+111,A disappointing service with horrible results.,4
+112,An amazing service with fantastic results.,7
+113,It was a unsatisfactory service. Truly a disappointing time.,4
+114,An pleasant service with pleasant results.,7
+115,poor experience! The service was awful.,3
+116,I found the service to be unsatisfactory and the overall experience was unsatisfactory.,4
+117,The service was disappointing and I had a bad experience.,4
+118,An outstanding service with excellent results.,9
+119,It was an amazing service. Truly a satisfactory time.,9
+120,It was an outstanding service. Truly a pleasant time.,8
+121,An amazing service with outstanding results.,8
+122,The service was superb and I had a amazing experience.,7
+123,poor experience! The service was awful.,1
+124,It was an fantastic service. Truly a wonderful time.,6
+125,The service was unsatisfactory and I had a bad experience.,3
+126,awful experience! The service was terrible.,3
+127,I found the service to be awful and the overall experience was unsatisfactory.,2
+128,I found the service to be pleasant and the overall experience was superb.,10
+129,It was a dreadful service. Truly a awful time.,2
+130,It was a bad service. Truly a dreadful time.,5
+131,great experience! The service was fantastic.,6
+132,I found the service to be disappointing and the overall experience was dreadful.,5
+133,A bad service with unsatisfactory results.,2
+134,disappointing experience! The service was unsatisfactory.,5
+135,poor experience! The service was bad.,5
+136,fantastic experience! The service was excellent.,8
+137,I found the service to be pleasant and the overall experience was excellent.,8
+138,It was an fantastic service. Truly a superb time.,9
+139,It was an great service. Truly a wonderful time.,9
+140,The service was satisfactory and I had a great experience.,7
+141,It was an amazing service. Truly a amazing time.,6
+142,It was an outstanding service. Truly a satisfactory time.,8
+143,awful experience! The service was disappointing.,5
+144,poor experience! The service was poor.,1
+145,It was a poor service. Truly a subpar time.,4
+146,It was a terrible service. Truly a disappointing time.,5
+147,I found the service to be outstanding and the overall experience was amazing.,9
+148,A disappointing service with bad results.,1
+149,The service was outstanding and I had a amazing experience.,6
+150,bad experience! The service was dreadful.,5
+151,awful experience! The service was dreadful.,5
+152,I found the service to be poor and the overall experience was bad.,2
+153,A horrible service with horrible results.,1
+154,satisfactory experience! The service was satisfactory.,8
+155,An amazing service with amazing results.,8
+156,It was a disappointing service. Truly a subpar time.,1
+157,I found the service to be awful and the overall experience was bad.,4
+158,I found the service to be horrible and the overall experience was poor.,4
+159,It was a awful service. Truly a awful time.,5
+160,A bad service with poor results.,4
+161,The service was satisfactory and I had a fantastic experience.,10
+162,It was a poor service. Truly a terrible time.,5
+163,It was an superb service. Truly a wonderful time.,7
+164,An wonderful service with wonderful results.,7
+165,I found the service to be great and the overall experience was pleasant.,7
+166,I found the service to be poor and the overall experience was disappointing.,4
+167,pleasant experience! The service was satisfactory.,8
+168,It was a dreadful service. Truly a unsatisfactory time.,3
+169,I found the service to be subpar and the overall experience was terrible.,5
+170,satisfactory experience! The service was fantastic.,10
+171,awful experience! The service was subpar.,3
+172,An excellent service with great results.,9
+173,It was an satisfactory service. Truly a superb time.,6
+174,It was a unsatisfactory service. Truly a awful time.,4
+175,unsatisfactory experience! The service was poor.,4
+176,I found the service to be fantastic and the overall experience was fantastic.,9
+177,An amazing service with pleasant results.,10
+178,It was a awful service. Truly a disappointing time.,1
+179,A subpar service with awful results.,2
+180,I found the service to be awful and the overall experience was poor.,2
+181,It was a subpar service. Truly a unsatisfactory time.,3
+182,I found the service to be amazing and the overall experience was satisfactory.,8
+183,terrible experience! The service was unsatisfactory.,4
+184,The service was horrible and I had a bad experience.,5
+185,outstanding experience! The service was superb.,10
+186,unsatisfactory experience! The service was poor.,2
+187,It was an outstanding service. Truly a superb time.,9
+188,unsatisfactory experience! The service was awful.,3
+189,An pleasant service with outstanding results.,9
+190,I found the service to be outstanding and the overall experience was outstanding.,8
+191,The service was disappointing and I had a poor experience.,2
+192,terrible experience! The service was awful.,3
+193,The service was outstanding and I had a satisfactory experience.,7
+194,The service was great and I had a satisfactory experience.,10
+195,It was an amazing service. Truly a wonderful time.,8
+196,terrible experience! The service was unsatisfactory.,1
+197,The service was bad and I had a disappointing experience.,3
+198,I found the service to be bad and the overall experience was awful.,1
+199,I found the service to be dreadful and the overall experience was bad.,5
+200,The service was unsatisfactory and I had a horrible experience.,3
+201,subpar experience! The service was awful.,4
+202,unsatisfactory experience! The service was poor.,3
+203,A disappointing service with poor results.,1
+204,It was a dreadful service. Truly a disappointing time.,5
+205,The service was outstanding and I had a pleasant experience.,9
+206,subpar experience! The service was awful.,4
+207,disappointing experience! The service was terrible.,1
+208,The service was awful and I had a disappointing experience.,2
+209,wonderful experience! The service was wonderful.,8
+210,The service was wonderful and I had a outstanding experience.,10
+211,fantastic experience! The service was fantastic.,10
+212,The service was terrible and I had a horrible experience.,1
+213,I found the service to be terrible and the overall experience was awful.,1
+214,An wonderful service with excellent results.,10
+215,great experience! The service was outstanding.,8
+216,An amazing service with excellent results.,6
+217,An outstanding service with amazing results.,6
+218,It was an satisfactory service. Truly a excellent time.,10
+219,A dreadful service with terrible results.,3
+220,It was an satisfactory service. Truly a amazing time.,8
+221,I found the service to be awful and the overall experience was subpar.,4
+222,The service was terrible and I had a awful experience.,1
+223,amazing experience! The service was fantastic.,8
+224,It was an satisfactory service. Truly a wonderful time.,6
+225,I found the service to be pleasant and the overall experience was excellent.,7
+226,The service was great and I had a excellent experience.,10
+227,I found the service to be fantastic and the overall experience was excellent.,7
+228,It was a bad service. Truly a awful time.,3
+229,A awful service with terrible results.,4
+230,I found the service to be outstanding and the overall experience was amazing.,6
+231,It was a subpar service. Truly a subpar time.,3
+232,The service was disappointing and I had a poor experience.,1
+233,I found the service to be outstanding and the overall experience was satisfactory.,10
+234,The service was fantastic and I had a outstanding experience.,9
+235,It was an outstanding service. Truly a superb time.,7
+236,A dreadful service with unsatisfactory results.,1
+237,It was an great service. Truly a superb time.,7
+238,An fantastic service with outstanding results.,8
+239,A terrible service with poor results.,5
+240,I found the service to be awful and the overall experience was unsatisfactory.,5
+241,The service was fantastic and I had a outstanding experience.,10
+242,awful experience! The service was bad.,4
+243,The service was awful and I had a terrible experience.,2
+244,outstanding experience! The service was amazing.,6
+245,It was an outstanding service. Truly a great time.,8
+246,The service was disappointing and I had a terrible experience.,5
+247,It was a unsatisfactory service. Truly a bad time.,2
+248,An wonderful service with fantastic results.,10
+249,The service was fantastic and I had a superb experience.,9
+250,The service was bad and I had a unsatisfactory experience.,3
+251,horrible experience! The service was terrible.,5
+252,An amazing service with wonderful results.,10
+253,An pleasant service with satisfactory results.,8
+254,It was an pleasant service. Truly a excellent time.,7
+255,A poor service with disappointing results.,2
+256,I found the service to be poor and the overall experience was terrible.,4
+257,It was a awful service. Truly a terrible time.,4
+258,I found the service to be subpar and the overall experience was disappointing.,1
+259,A disappointing service with disappointing results.,1
+260,I found the service to be wonderful and the overall experience was wonderful.,6
+261,The service was excellent and I had a excellent experience.,10
+262,bad experience! The service was subpar.,3
+263,The service was horrible and I had a disappointing experience.,4
+264,It was an satisfactory service. Truly a amazing time.,6
+265,It was a subpar service. Truly a poor time.,3
+266,It was an wonderful service. Truly a outstanding time.,7
+267,fantastic experience! The service was pleasant.,8
+268,It was a unsatisfactory service. Truly a horrible time.,4
+269,I found the service to be terrible and the overall experience was disappointing.,1
+270,The service was subpar and I had a unsatisfactory experience.,5
+271,A awful service with terrible results.,2
+272,It was an outstanding service. Truly a satisfactory time.,10
+273,It was an fantastic service. Truly a excellent time.,10
+274,It was an excellent service. Truly a satisfactory time.,10
+275,A terrible service with disappointing results.,5
+276,It was a poor service. Truly a terrible time.,4
+277,I found the service to be horrible and the overall experience was poor.,3
+278,satisfactory experience! The service was satisfactory.,10
+279,The service was awful and I had a poor experience.,4
+280,The service was subpar and I had a awful experience.,5
+281,poor experience! The service was terrible.,5
+282,I found the service to be disappointing and the overall experience was horrible.,3
+283,great experience! The service was fantastic.,6
+284,A poor service with poor results.,2
+285,awful experience! The service was bad.,2
+286,It was an great service. Truly a pleasant time.,7
+287,It was an outstanding service. Truly a wonderful time.,7
+288,It was a dreadful service. Truly a unsatisfactory time.,1
+289,An outstanding service with wonderful results.,10
+290,I found the service to be subpar and the overall experience was bad.,2
+291,amazing experience! The service was excellent.,8
+292,The service was satisfactory and I had a amazing experience.,8
+293,It was an outstanding service. Truly a superb time.,10
+294,I found the service to be pleasant and the overall experience was outstanding.,9
+295,The service was satisfactory and I had a amazing experience.,10
+296,great experience! The service was great.,10
+297,An amazing service with superb results.,6
+298,The service was pleasant and I had a excellent experience.,8
+299,wonderful experience! The service was wonderful.,8
+300,I found the service to be excellent and the overall experience was superb.,9
+301,It was an superb service. Truly a satisfactory time.,7
+302,The service was amazing and I had a pleasant experience.,7
+303,A subpar service with unsatisfactory results.,5
+304,It was an outstanding service. Truly a amazing time.,8
+305,It was an fantastic service. Truly a pleasant time.,8
+306,It was a disappointing service. Truly a subpar time.,4
+307,superb experience! The service was outstanding.,10
+308,I found the service to be bad and the overall experience was awful.,5
+309,It was an superb service. Truly a superb time.,6
+310,The service was bad and I had a dreadful experience.,3
+311,superb experience! The service was amazing.,10
+312,A horrible service with awful results.,4
+313,A dreadful service with dreadful results.,2
+314,An pleasant service with satisfactory results.,9
+315,An outstanding service with superb results.,10
+316,superb experience! The service was outstanding.,10
+317,It was a subpar service. Truly a subpar time.,4
+318,An excellent service with excellent results.,9
+319,An amazing service with fantastic results.,10
+320,satisfactory experience! The service was outstanding.,6
+321,I found the service to be disappointing and the overall experience was horrible.,1
+322,terrible experience! The service was terrible.,4
+323,I found the service to be wonderful and the overall experience was great.,8
+324,A dreadful service with horrible results.,3
+325,excellent experience! The service was amazing.,6
+326,wonderful experience! The service was superb.,6
+327,It was a subpar service. Truly a unsatisfactory time.,1
+328,The service was excellent and I had a great experience.,9
+329,bad experience! The service was bad.,2
+330,A terrible service with dreadful results.,5
+331,An wonderful service with satisfactory results.,9
+332,It was an outstanding service. Truly a fantastic time.,8
+333,I found the service to be poor and the overall experience was subpar.,5
+334,I found the service to be disappointing and the overall experience was disappointing.,2
+335,I found the service to be great and the overall experience was excellent.,10
+336,A dreadful service with horrible results.,1
+337,It was an satisfactory service. Truly a excellent time.,10
+338,pleasant experience! The service was wonderful.,10
+339,An superb service with wonderful results.,8
+340,It was an satisfactory service. Truly a pleasant time.,7
+341,A horrible service with disappointing results.,3
+342,It was an amazing service. Truly a wonderful time.,7
+343,The service was pleasant and I had a excellent experience.,10
+344,The service was excellent and I had a fantastic experience.,8
+345,I found the service to be awful and the overall experience was horrible.,1
+346,An pleasant service with amazing results.,6
+347,The service was terrible and I had a unsatisfactory experience.,5
+348,A dreadful service with horrible results.,3
+349,An fantastic service with outstanding results.,7
+350,An great service with great results.,10
+351,A subpar service with poor results.,1
+352,horrible experience! The service was subpar.,5
+353,An amazing service with satisfactory results.,8
+354,A horrible service with subpar results.,2
+355,I found the service to be excellent and the overall experience was superb.,7
+356,The service was horrible and I had a horrible experience.,3
+357,The service was disappointing and I had a horrible experience.,3
+358,I found the service to be disappointing and the overall experience was subpar.,2
+359,awful experience! The service was bad.,5
+360,A poor service with horrible results.,3
+361,wonderful experience! The service was satisfactory.,7
+362,satisfactory experience! The service was amazing.,9
+363,The service was great and I had a superb experience.,8
+364,A disappointing service with subpar results.,5
+365,An outstanding service with satisfactory results.,9
+366,The service was wonderful and I had a pleasant experience.,8
+367,The service was subpar and I had a poor experience.,4
+368,It was a horrible service. Truly a disappointing time.,4
+369,A terrible service with terrible results.,1
+370,awful experience! The service was dreadful.,4
+371,I found the service to be fantastic and the overall experience was great.,8
+372,The service was wonderful and I had a fantastic experience.,7
+373,An fantastic service with outstanding results.,10
+374,I found the service to be fantastic and the overall experience was satisfactory.,9
+375,It was an great service. Truly a satisfactory time.,6
+376,superb experience! The service was great.,9
+377,The service was satisfactory and I had a amazing experience.,10
+378,It was a poor service. Truly a horrible time.,3
+379,The service was wonderful and I had a amazing experience.,6
+380,The service was horrible and I had a terrible experience.,3
+381,An excellent service with amazing results.,7
+382,A dreadful service with dreadful results.,2
+383,fantastic experience! The service was amazing.,9
+384,The service was amazing and I had a wonderful experience.,6
+385,awful experience! The service was unsatisfactory.,5
+386,I found the service to be disappointing and the overall experience was subpar.,3
+387,I found the service to be poor and the overall experience was poor.,2
+388,The service was disappointing and I had a disappointing experience.,5
+389,awful experience! The service was bad.,5
+390,It was an superb service. Truly a outstanding time.,10
+391,It was an fantastic service. Truly a excellent time.,6
+392,It was an great service. Truly a wonderful time.,9
+393,A awful service with horrible results.,4
+394,It was an amazing service. Truly a great time.,9
+395,It was an great service. Truly a pleasant time.,9
+396,I found the service to be bad and the overall experience was unsatisfactory.,3
+397,The service was horrible and I had a subpar experience.,3
+398,superb experience! The service was great.,8
+399,amazing experience! The service was superb.,8
+400,pleasant experience! The service was amazing.,10
+401,The service was superb and I had a satisfactory experience.,7
+402,unsatisfactory experience! The service was unsatisfactory.,4
+403,It was an pleasant service. Truly a fantastic time.,6
+404,It was a subpar service. Truly a unsatisfactory time.,5
+405,It was a terrible service. Truly a awful time.,5
+406,great experience! The service was great.,9
+407,The service was unsatisfactory and I had a dreadful experience.,3
+408,The service was wonderful and I had a satisfactory experience.,6
+409,I found the service to be fantastic and the overall experience was pleasant.,8
+410,subpar experience! The service was unsatisfactory.,2
+411,I found the service to be disappointing and the overall experience was bad.,3
+412,It was a disappointing service. Truly a bad time.,2
+413,It was a poor service. Truly a awful time.,1
+414,It was an wonderful service. Truly a amazing time.,7
+415,superb experience! The service was fantastic.,9
+416,The service was wonderful and I had a amazing experience.,10
+417,wonderful experience! The service was pleasant.,9
+418,The service was dreadful and I had a terrible experience.,3
+419,It was an superb service. Truly a pleasant time.,7
+420,The service was dreadful and I had a dreadful experience.,3
+421,dreadful experience! The service was awful.,3
+422,It was a poor service. Truly a bad time.,4
+423,A subpar service with bad results.,4
+424,It was an excellent service. Truly a amazing time.,10
+425,The service was pleasant and I had a excellent experience.,10
+426,The service was wonderful and I had a great experience.,8
+427,It was an pleasant service. Truly a satisfactory time.,7
+428,An wonderful service with great results.,7
+429,I found the service to be satisfactory and the overall experience was outstanding.,7
+430,The service was outstanding and I had a fantastic experience.,9
+431,superb experience! The service was wonderful.,9
+432,A subpar service with poor results.,5
+433,The service was terrible and I had a bad experience.,5
+434,I found the service to be outstanding and the overall experience was satisfactory.,8
+435,horrible experience! The service was subpar.,1
+436,It was a unsatisfactory service. Truly a subpar time.,1
+437,A unsatisfactory service with poor results.,3
+438,It was a poor service. Truly a horrible time.,4
+439,satisfactory experience! The service was fantastic.,6
+440,poor experience! The service was bad.,3
+441,The service was satisfactory and I had a pleasant experience.,8
+442,The service was bad and I had a dreadful experience.,2
+443,amazing experience! The service was excellent.,10
+444,I found the service to be subpar and the overall experience was disappointing.,1
+445,It was a terrible service. Truly a unsatisfactory time.,3
+446,I found the service to be disappointing and the overall experience was bad.,5
+447,horrible experience! The service was dreadful.,4
+448,The service was bad and I had a subpar experience.,2
+449,I found the service to be disappointing and the overall experience was bad.,1
+450,I found the service to be excellent and the overall experience was fantastic.,10
+451,bad experience! The service was horrible.,2
+452,I found the service to be satisfactory and the overall experience was amazing.,9
+453,It was a horrible service. Truly a disappointing time.,4
+454,The service was pleasant and I had a superb experience.,6
+455,poor experience! The service was dreadful.,1
+456,It was a horrible service. Truly a disappointing time.,2
+457,poor experience! The service was poor.,4
+458,A terrible service with horrible results.,4
+459,A unsatisfactory service with bad results.,3
+460,I found the service to be bad and the overall experience was terrible.,5
+461,A poor service with dreadful results.,1
+462,subpar experience! The service was poor.,3
+463,The service was satisfactory and I had a wonderful experience.,6
+464,I found the service to be superb and the overall experience was excellent.,9
+465,wonderful experience! The service was pleasant.,6
+466,The service was outstanding and I had a wonderful experience.,9
+467,It was an wonderful service. Truly a excellent time.,10
+468,It was an great service. Truly a satisfactory time.,8
+469,A dreadful service with awful results.,3
+470,A dreadful service with horrible results.,4
+471,A poor service with subpar results.,2
+472,An excellent service with great results.,10
+473,awful experience! The service was bad.,3
+474,poor experience! The service was disappointing.,1
+475,The service was poor and I had a poor experience.,2
+476,I found the service to be fantastic and the overall experience was outstanding.,7
+477,It was a disappointing service. Truly a subpar time.,5
+478,satisfactory experience! The service was fantastic.,8
+479,An superb service with great results.,10
+480,The service was subpar and I had a horrible experience.,1
+481,The service was subpar and I had a subpar experience.,2
+482,An satisfactory service with satisfactory results.,6
+483,It was an satisfactory service. Truly a great time.,10
+484,It was an outstanding service. Truly a wonderful time.,8
+485,The service was great and I had a pleasant experience.,9
+486,It was an great service. Truly a fantastic time.,8
+487,The service was awful and I had a subpar experience.,4
+488,An satisfactory service with great results.,8
+489,A disappointing service with disappointing results.,3
+490,The service was excellent and I had a great experience.,7
+491,awful experience! The service was awful.,5
+492,superb experience! The service was excellent.,6
+493,A disappointing service with subpar results.,1
+494,I found the service to be terrible and the overall experience was disappointing.,2
+495,It was a dreadful service. Truly a poor time.,2
+496,The service was poor and I had a subpar experience.,2
+497,The service was unsatisfactory and I had a unsatisfactory experience.,1
+498,A poor service with disappointing results.,3
+499,A subpar service with dreadful results.,3
+500,The service was amazing and I had a great experience.,6
